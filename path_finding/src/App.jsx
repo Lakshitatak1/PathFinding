@@ -1,6 +1,6 @@
 import './App.css'
-//import Grid from './components/Grid/Grid'
-//import Navbar from './components/Navbar/Navbar'
+import Grid from './components/Grid/Grid'
+import Navbar from './components/Navbar/Navbar'
 
 
 
